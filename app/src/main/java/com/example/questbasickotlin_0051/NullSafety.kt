@@ -4,6 +4,7 @@ fun nullSafety() {
     //never null has string type
     var neverNull:String = "This can't be null"
 
+
     //throws a compiler erorr
     //never null = null
 
