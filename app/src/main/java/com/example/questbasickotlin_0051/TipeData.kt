@@ -10,6 +10,7 @@ fun main() {
     println("Short: $shortValue")
 
 
+
     //int
 
     val intValue: Int = 30
